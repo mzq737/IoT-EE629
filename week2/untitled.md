@@ -1,0 +1,5 @@
+The History of the Internet of Things
+
+Most of the early smart home inventions used automatic controls, making it possible to turn something or off without lifting a finger. But they didn’t connect to anything else, and their functionality was limited. That would begin to change in 1983 when ARPANET, the earliest version of the internet, adopted the internet protocol suite (also known as TCP/IP). The protocol set standards for how digital data should be transmitted, routed, and received. Essentially, it laid the groundwork for the modern internet.
+
+The term “internet of things” itself was coined in 1999, when Kevin Ashton put it in a PowerPoint presentation for Procter & Gamble. Ashton, who was then working in supply chain optimization, described a system where sensors acted like the eyes and ears of a computer—an entirely new way for computers to see, hear, touch, and interpret their surroundings.
