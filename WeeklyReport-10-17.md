@@ -6,6 +6,7 @@ Starting November 2020, Googlebot will start crawling some sites over HTTP/2.
 
 What is [HTTP/2][HTTP/2]?
 
-
+###### 3. Project Process
+Completed the first part of data crawling.
 
 [HTTP/2]: https://en.wikipedia.org/wiki/HTTP/2
