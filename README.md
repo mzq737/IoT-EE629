@@ -4,6 +4,8 @@ Finished lab1 and learned some Git and Linux operation instructions.
 
 <div align=center>
   <img src="./report1-1.png" width='400px' alt ='report1-1' />
+</div>
+<div align=center>
   <img src="./report1-2.png" width='400px' alt ='report1-2' />
 </div>
 
