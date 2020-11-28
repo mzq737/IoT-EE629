@@ -1,6 +1,7 @@
 # IoT-EE629
 ### Report 1 2020/09/19
 Finished lab1 and learned some Git and Linux operation instructions.
+
 <img src="./report1-1.png" width='400px' alt ='report1-1' />
 <img src="./report1-2.png" width='400px' alt ='report1-2' />
 
