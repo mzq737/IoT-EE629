@@ -2,7 +2,12 @@
 
 ### Report 2 2020/09/27
 1. Learing basic ideas about Flask----a light weight web application framework and how it differ from Django or other frames. All Flask templates or examples lookes neat and simple.
-3. Learning Flask documents, considering whether to use Flask to create a small application as final project.
+2. Learning Flask documents, considering whether to use Flask to create a small application as final project.
+
+### Report 2020/10/13
+1. Practiced basic web scraping library: Requests, Beautiful Soup 4, Selenium(but met some problem).
+2. Noticed that Raspberry Pi can not use Chrome, until now can not find same version chromium driver for selenium.
+3. Previewed class 5.
 
 ### Report 2020/10/17
 ###### 1. Applebot 
@@ -17,3 +22,18 @@ What is [HTTP/2][HTTP/2]?
 Completed the first part of data crawling.
 
 [HTTP/2]: https://en.wikipedia.org/wiki/HTTP/2
+
+### Report 2020/10/25
+1. Finished Lab 5A, 5B.
+2. Project: Completed data acquisition and classification.
+
+### Report 2020/11/01
+1. Finished Lab 7A: ThingSpeak, Lab7B: Google Sheets
+2. Finished data scrapping, tested data in local machine MySQL database, and then stored data in the Amazon RDS MySQL database.
+![jupyter_code](./jupyter.png)
+![MySQLdata](./report11-1.png)
+3. Finished project front-end part.
+
+### Report 2020/11/14
+1. Elsa, a new entrant in the arena, is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go. Now, we have Node, [Deno](https://en.wikipedia.org/wiki/Deno_(software)) and [Elsa](https://github.com/elsaland/elsa).
+2. My project is a COV19 Tracker application with Flask hosted on AWS.
