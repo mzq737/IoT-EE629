@@ -6,7 +6,7 @@
 
 ### Report 2020/10/13
 1.Completed the Lab4 A,B,C,D.
-2.Created test MySQL database and several tables <img src="./mysql-db.png" width="50%" height="50%" />
+2.Created test MySQL database and several tables ![MYSQL](./)
 3.Installed Jupyter Notebook for project.![JN-w200](./jynotebook.png)
 4.Started Project with Python.
 
@@ -36,7 +36,7 @@ Completed the first part of data crawling.
 ### Report 2020/11/01
 1. Finished Lab 7A: ThingSpeak, Lab7B: Google Sheets
 2. Finished data scrapping, tested data in local machine MySQL database, and then stored data in the Amazon RDS MySQL database.
-![jupyter_code](./jupyter.png)
+![jupyter_code](./jupyter.png =400)
 ![MySQLdata](./report11-1.png)
 3. Finished project front-end part.
 
