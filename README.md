@@ -6,8 +6,8 @@
 
 ### Report 2020/10/13
 1.Completed the Lab4 A,B,C,D.
-2.Created test MySQL database and several tables ![MySQL](./mysql-db.png =200x200)
-3.Installed Jupyter Notebook for project.![JN](./jynotebook.png =200x200)
+2.Created test MySQL database and several tables ![MySQL](./mysql-db.png =200)
+3.Installed Jupyter Notebook for project.![JN](./jynotebook.png =200)
 4.Started Project with Python.
 
 ### Report 2020/10/13
