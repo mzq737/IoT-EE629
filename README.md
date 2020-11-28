@@ -5,6 +5,12 @@
 2. Learning Flask documents, considering whether to use Flask to create a small application as final project.
 
 ### Report 2020/10/13
+1.Completed the Lab4 A,B,C,D.
+2.Created test MySQL database and several tables ![MySQL](./mysql-db.png)
+3.Installed Jupyter Notebook for project.![JN](./jynotebook.png)
+4.Started Project with Python.
+
+### Report 2020/10/13
 1. Practiced basic web scraping library: Requests, Beautiful Soup 4, Selenium(but met some problem).
 2. Noticed that Raspberry Pi can not use Chrome, until now can not find same version chromium driver for selenium.
 3. Previewed class 5.
