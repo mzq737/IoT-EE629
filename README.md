@@ -2,8 +2,10 @@
 ### Report 1 2020/09/19
 Finished lab1 and learned some Git and Linux operation instructions.
 
-<img src="./report1-1.png" width='400px' alt ='report1-1' />
-<img src="./report1-2.png" width='400px' alt ='report1-2' />
+<div align=center>
+  <img src="./report1-1.png" width='400px' alt ='report1-1' />
+  <img src="./report1-2.png" width='400px' alt ='report1-2' />
+</div>
 
 ### Report 2 2020/09/27
 1. Learing basic ideas about Flask----a light weight web application framework and how it differ from Django or other frames. All Flask templates or examples lookes neat and simple.
