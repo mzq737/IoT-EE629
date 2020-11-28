@@ -1,9 +1,8 @@
 # IoT-EE629
 ### Report 1 2020/09/19
 Finished lab1 and learned some Git and Linux operation instructions.
-![report1-1](./report1-1.png)
-![report1-2](./report1-2.png)
-<img src="./report1-1.png" width='200px' alt ='report1-1' />
+<img src="./report1-1.png" width='400px' alt ='report1-1' />
+<img src="./report1-2.png" width='400px' alt ='report1-2' />
 
 ### Report 2 2020/09/27
 1. Learing basic ideas about Flask----a light weight web application framework and how it differ from Django or other frames. All Flask templates or examples lookes neat and simple.
