@@ -46,9 +46,8 @@ Completed the first part of data crawling.
 1. Finished Lab 7A: ThingSpeak, Lab7B: Google Sheets
 2. Finished data scrapping, tested data in local machine MySQL database, and then stored data in the Amazon RDS MySQL database.
 
- <img src="./jupyter.png" width='400px' alt ='jupyter.png' />
-
- <img src="./report11-1.png" width='400px' alt ='report11-1.png' />
+<img src="./jupyter.png" width='400px' alt ='jupyter.png' />
+<img src="./report11-1.png" width='400px' alt ='report11-1.png' />
 3. Finished project front-end part.
 
 ### Report 2020/11/14
