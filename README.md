@@ -15,7 +15,7 @@ Finished lab1 and learned some Git and Linux operation instructions.
 
 ### Report 2020/10/13
 1.Completed the Lab4 A,B,C,D.
-2.Created test MySQL database and several tables ![MYSQL](./)
+2.Created test MySQL database and several tables ![MYSQL](./mysql-db.png)
 3.Installed Jupyter Notebook for project.![JN-w200](./jynotebook.png)
 4.Started Project with Python.
 
