@@ -1,1 +1,0 @@
-1. Finished project front-end part, and deployed it on Amazon EC2 instance.
