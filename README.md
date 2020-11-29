@@ -2,12 +2,8 @@
 ### Report 1 2020/09/19
 Finished lab1 and learned some Git and Linux operation instructions.
 
-<div align=center>
-  <img src="./report1-1.png" width='400px' alt ='report1-1' />
-</div>
-<div align=center>
-  <img src="./report1-2.png" width='400px' alt ='report1-2' />
-</div>
+<img src="./report1-1.png" width='400px' alt ='report1-1' />
+<img src="./report1-2.png" width='400px' alt ='report1-2' />
 
 ### Report 2 2020/09/27
 1. Learing basic ideas about Flask----a light weight web application framework and how it differ from Django or other frames. All Flask templates or examples lookes neat and simple.
@@ -15,8 +11,12 @@ Finished lab1 and learned some Git and Linux operation instructions.
 
 ### Report 2020/10/13
 1.Completed the Lab4 A,B,C,D.
-2.Created test MySQL database and several tables ![MYSQL](./mysql-db.png)
-3.Installed Jupyter Notebook for project.![JN-w200](./jynotebook.png)
+2.Created test MySQL database and several tables.
+
+<img src="./mysql-db.png" width='400px' alt ='mysql-db.png' />
+3.Installed Jupyter Notebook for project.
+
+<img src="./jynotebook.png" width='400px' alt ='jynotebook.png' />
 4.Started Project with Python.
 
 ### Report 2020/10/13
