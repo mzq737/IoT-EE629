@@ -72,6 +72,6 @@ Completed the first part of data crawling.
 1. Elsa, a new entrant in the arena, is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go. Now, we have Node, [Deno](https://en.wikipedia.org/wiki/Deno_(software)) and [Elsa](https://github.com/elsaland/elsa).
 2. My project is a COVID-19 Tracker application with Flask hosted on AWS.
 
-### Report 9 2020/12/6
+### Report 10 2020/12/6
 1. Learned the basics of TypeScript last week and understood the difference and connection between it and JavaScript.
 2. Watched a small part of AWS re:Invent virtual conference.
