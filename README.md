@@ -75,3 +75,6 @@ Completed the first part of data crawling.
 ### Report 10 2020/12/6
 1. Learned the basics of TypeScript last week and understood the difference and connection between it and JavaScript.
 2. Watched a small part of AWS re:Invent virtual conference.
+
+### Report 11 2020/12/11
+Added more content in the project's README.md
